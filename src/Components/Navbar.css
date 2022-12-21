@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    margin-bottom: 5px;
+}
+.navbar-brand{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px !important;
+    font-weight: bolder;
+}
+
+.span{
+    color: rgb(28, 101, 209);
+    background:rgb(248, 248, 248);
+    border-radius: 5px;
+    font-size: small;
+}
+.span:hover{
+    cursor: pointer;
+}

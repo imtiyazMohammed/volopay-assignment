@@ -1,0 +1,15 @@
+.cards{
+    width: 88%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 0 80px; */
+    margin-left: 80px;
+    margin-right: 80px;
+    flex-direction: row;
+    /* align-items: center;
+    align-content:center; */
+    /* padding: 10px 1; */
+    flex-wrap: wrap;
+    margin-top: 80px;
+  }
